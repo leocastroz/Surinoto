@@ -7,20 +7,19 @@
 
 - 🔭 I’m currently working at [VALE]
 
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
+- 👨‍💻 All my projects are available on this GitHub
 
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- ▶️ I make posters regularly on [instagram.com/leocastro_x/](https://www.instagram.com/leocastro_x/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, Vue.JS, Bootstrap, Materialize, Bulma,**
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ always looking to **improve 😜**
 
 <br><br>
 
 ## 🛠 &nbsp;SOFT SKILLS
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Vue.Js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
