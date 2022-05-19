@@ -15,7 +15,7 @@
 
 - ⚡ always looking to **improve 😜**
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;SOFT SKILLS
 
